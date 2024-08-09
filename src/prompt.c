@@ -53,7 +53,7 @@ char* prompt() {
     
 }
 
-int main() {
-    printf(prompt());
-    return 0;
-}
+//int main() {
+//    printf(prompt());
+//    return 0;
+//}
